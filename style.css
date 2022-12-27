@@ -1,0 +1,38 @@
+
+body{
+    background-color: rgb(119, 119, 185);
+}
+div.first{
+    background-color:#fff;
+    width: 400px;
+    height: 600px;
+    border-radius:10px ;
+    position:relative;
+    margin-left: 40%;
+    margin-top: 10%;
+
+    
+    
+}
+
+div.text-header{
+    
+    position: relative;
+    top: 60%;
+    margin-left: 19px;
+    text-align: center;
+
+}
+
+div.code{
+    background-color: rgb(97, 97, 225);
+    width:350px;
+    height: 300px;
+    position: absolute;
+    top: 5%;
+    right:8%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+
+}
